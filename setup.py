@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'run-topsis = scripts.run_topsis:main',
+            'run-topsis = 102203525_TOPSIS.102203525:main',
         ],
     },
 )
