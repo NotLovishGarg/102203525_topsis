@@ -70,3 +70,5 @@ run-topsis input.xlsx "0.4,0.3,0.2,0.1" "+,+,-,+" output.xlsx
 ---
 
 By following the above steps, you can easily perform TOPSIS analysis using the `102203525_TOPSIS` package. For any issues or suggestions, feel free to open an issue on the [GitHub repository](https://github.com/NotLovishGarg/102203525_topsis).
+
+The Link to this Python Package on [PyPi](https://pypi.org/project/102203525-TOPSIS/)
